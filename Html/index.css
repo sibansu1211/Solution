@@ -1,0 +1,39 @@
+.img {
+    
+        -webkit-transform:rotate(90deg);  
+        -moz-transform: rotate(90deg);  
+        -ms-transform: rotate(90deg);  
+        -o-transform: rotate(90deg);  
+        transform: rotate(90deg);  
+
+        width: 100px;
+        height: 100px;
+        
+        margin-left: 600px;
+      
+}
+
+.img2{
+    height: 200px;
+}
+.img3{
+    height: 200px;
+    margin-left: 1000px;
+}
+.text{
+
+    text-align: center;
+    margin-top: -150px;
+}
+.img4{
+    -webkit-transform:rotate(90deg);  
+        -moz-transform: rotate(90deg);  
+        -ms-transform: rotate(90deg);  
+        -o-transform: rotate(90deg);  
+        transform: rotate(90deg);  
+
+        width: 100px;
+        height: 100px;
+        
+        margin-left: 600px;
+}
